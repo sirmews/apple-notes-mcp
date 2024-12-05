@@ -35,7 +35,7 @@ The server provides multiple prompts:
 Recommend using [uv](https://docs.astral.sh/uv/getting-started/installation/) to install the server locally for Claude.
 
 ```
-uvx install apple-notes-mcp
+uvx apple-notes-mcp
 ```
 OR
 ```
